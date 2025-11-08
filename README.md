@@ -1,47 +1,33 @@
-# Primăria Virtuală 🏛️
+# CivicAI – Primăria Virtuală  
+Echipa: HackTheHall  
 
-Hackathon Open Your Mind– Echipa HackTheHall
-
-## 💡 Descrierea proiectului
-Primăria Virtuală este un concept de administrație locală complet automatizată, care permite cetățenilor să acceseze servicii publice 24/7 prin intermediul asistenților virtuali și terminalelor digitale.
-
-Scopul este reducerea birocrației, creșterea transparenței și oferirea de servicii rapide și accesibile pentru toți.
+CivicAI este un modul web demonstrativ al proiectului „Primăria Virtuală” – o platformă digitală unde cetățenii pot depune cereri, verifica statusul și primi asistență printr-un AI local.
 
 ---
 
-## 🚀 Ce am realizat în 24h
-- Mock-up interactiv al platformei (Figma)
-- Asistent virtual AI simulativ 
-- Pagina demo (HTML/CSS)
-- Prezentare completă + arhitectură sistem
+## Funcționalități
+- Autentificare utilizator  
+- Depunere cereri digitale  
+- Chat cu asistentul CivicAI (AI local – model LLaMA3 prin Ollama)  
+- Vizualizare status cereri  
 
 ---
 
-## 🧠 Tehnologii folosite
-- Figma – pentru UI/UX
-- HTML/CSS – demo static
-- ChatGPT 
-- Canva 
-- GitHub Pages
+## Tehnologii
+Frontend: HTML, CSS, JavaScript  
+Backend: Node.js + Express  
+AI: Ollama + LLaMA3 (versiune gratuită de test)
 
 ---
 
-## 🏗️ Arhitectura propusă
-
-
----
-
-## 🔮 Roadmap viitor
-1. Extinderea MVP cu integrare API reale
-2. Autentificare cu semnătură digitală
-3. Pilot într-o primărie locală
-4. Scalare națională
+## Instalare
+```bash
+npm install
+ollama serve
+node server.js
+```
+Accesează: [http://localhost:3000]
 
 ---
 
-## 👥 Echipa
-- Mărginean Daria
-- Bîrcea Cristina
-- Șerban Iulia
-- Bozdog Ioana
-- Covrig Cătălina
+Proiect realizat de echipa **HackTheHall** în cadrul Hackathonului OPen Your Mind – prima versiune a modulului CivicAI.
