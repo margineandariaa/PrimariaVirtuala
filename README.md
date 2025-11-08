@@ -30,4 +30,7 @@ Accesează: [http://localhost:3000]
 
 ---
 
-Proiect realizat de echipa **HackTheHall** în cadrul Hackathonului OPen Your Mind – prima versiune a modulului CivicAI.
+## Prezentare
+https://www.canva.com/design/DAG4FmMvWNU/BPX1Bcz032QPGKUg1rqwww/view?utm_content=DAG4FmMvWNU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h298c811a3f
+
+Proiect realizat de echipa **HackTheHall** în cadrul Hackathonului Open Your Mind – prima versiune a modulului CivicAI.
